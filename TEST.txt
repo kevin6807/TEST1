@@ -2,6 +2,11 @@ AAA
 BBBB
 CCCCC
 
+<<<<<<< HEAD
 1
 2
 3
+=======
+DDDDDD
+EEEEEEEEEE
+>>>>>>> a6ee9db2b5b2e4ab75705f9678445c49865e2dfb
